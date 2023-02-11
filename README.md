@@ -10,6 +10,12 @@ The program is able to prompt the sound of 9 animals as diplayed in Silhouettes 
 2) Sound
 3) Font
 
+### Languages and Tools Used
+1) Processing App
+2) Total Video Converter
+3) Windows Image Editor
+4) Processing! Programming Language
+
 ### References
 1) Silhouette pictures from google, collaged in windows editor.
 2) Animals sound from youtube videos and royalty free stock audios (converted the video to .wav  files and clipped the audio)
